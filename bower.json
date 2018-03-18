@@ -1,0 +1,17 @@
+{
+  "name": "rbk4-subclass-dance-party",
+  "homepage": "https://github.com/Yussur90/rbk4-subclass-dance-party",
+  "authors": [
+    "yussur90 <yuyualani@yahoo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
